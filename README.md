@@ -10,7 +10,7 @@ The company wants to add user control for Profit,Revenue,Quantity,COGS,Transacti
 <h2>
 <p><img align="left" height=35 width=35 src="https://assets.materialup.com/uploads/805362d3-e9d6-4aa7-b314-ed9dde22558b/preview.gif"/></p> Analysis Points
 </h2>
-<p><img align="right" height=330 width=480 src="https://c.tenor.com/lvLaG5hPCncAAAAd/data-analysis.gif"/></p>
+<p><img align="right" height=350 width=450 src="https://c.tenor.com/lvLaG5hPCncAAAAd/data-analysis.gif"/></p>
 
 1. Create a histogram to analyze a profit,revenue etc. for every months.
 
