@@ -1,9 +1,27 @@
-### E-Commerce_Sales_Dashboard.
-#### This is an E-Commerce Sales Dashboard and dashboard shows Ecommerce sales from year 2015-2017. This repository contain information about Excel project.
+## E-Commerce_Sales_Dashboard.
+### This is an E-Commerce Sales Dashboard and dashboard shows Ecommerce sales from year 2015-2017. This repository contain information about Excel project.
 <br>
 <h2>
 <p><img align="left" height=35 width=35 src="https://i.pinimg.com/originals/01/d6/1f/01d61f2df15d6f63251c1ec4ebb0824f.gif"/></p> Aim
-<h2>
-<br>
+</h2>
 An Online E-Commerce Company wants to design a Sales dashboard to analyze the sales based on various product categories. 
 The company wants to add user control for Profit,Revenue,Quantity,COGS,Transaction. So users can select a options and can see the trend month-wise.
+<br>
+<h2>
+<p><img align="left" height=35 width=32 src="https://assets.materialup.com/uploads/805362d3-e9d6-4aa7-b314-ed9dde22558b/preview.gif"/></p> Analysis Points
+</h2>
+<p><img align="right" height=320 width=400 src="https://c.tenor.com/lvLaG5hPCncAAAAd/data-analysis.gif"/></p>
+
+1. Create a histogram to analyze a profit,revenue etc. for every months.
+
+2. Prepare a table of Revenue month-wise , named it as ‘Revenue Analysis’.
+
+3. Prepare a table of Different Aspect in one sheet,named as 'Different Analysis'.
+
+4. Prepare a table of Quanterly Analysis.
+
+5. Prepare the table of Top 5 Customers in term of sales and Top 3 Cities in term of sales.
+
+6. Prepare the Daily,Weekly and Yearly Trends.
+
+5. Create a User Control Combo box for switching between Revenue,Profit,COGS etc. analysis & Create a dashboard.
