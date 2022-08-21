@@ -4,8 +4,8 @@
 <h2>
 <p><img align="left" height=35 width=35 src="https://i.pinimg.com/originals/01/d6/1f/01d61f2df15d6f63251c1ec4ebb0824f.gif"/></p> Aim
 </h2>
-An Online E-Commerce Company wants to design a Sales dashboard to analyze the sales based on various product categories. 
-The company wants to add user control for Profit,Revenue,Quantity,COGS,Transaction. So users can select a options and can see the trend month-wise.
+An Online E-Commerce Company wants to design a Sales dashboard to analyze the sales based on various product categories. The company wants to add user control for Profit, Revenue, Quantity, COGS, and Transaction. So users can select options and can see the trend month-wise.
+<br>
 <br>
 <h2>
 <p><img align="left" height=35 width=35 src="https://assets.materialup.com/uploads/805362d3-e9d6-4aa7-b314-ed9dde22558b/preview.gif"/></p> Analysis Points
