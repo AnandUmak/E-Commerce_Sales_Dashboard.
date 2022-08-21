@@ -10,13 +10,13 @@ The company wants to add user control for Profit,Revenue,Quantity,COGS,Transacti
 <h2>
 <p><img align="left" height=35 width=35 src="https://assets.materialup.com/uploads/805362d3-e9d6-4aa7-b314-ed9dde22558b/preview.gif"/></p> Analysis Points
 </h2>
-<p><img align="right" height=320 width=400 src="https://c.tenor.com/lvLaG5hPCncAAAAd/data-analysis.gif"/></p>
+<p><img align="right" height=330 width=480 src="https://c.tenor.com/lvLaG5hPCncAAAAd/data-analysis.gif"/></p>
 
 1. Create a histogram to analyze a profit,revenue etc. for every months.
 
-2. Prepare a table of Revenue month-wise , named it as ‘Revenue Analysis’.
+2. Prepare a table of Revenue month-wise.
 
-3. Prepare a table of Different Aspect in one sheet,named as 'Different Analysis'.
+3. Prepare a table of Different Aspect in one sheet.
 
 4. Prepare a table of Quanterly Analysis.
 
