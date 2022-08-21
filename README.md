@@ -8,7 +8,7 @@ An Online E-Commerce Company wants to design a Sales dashboard to analyze the sa
 The company wants to add user control for Profit,Revenue,Quantity,COGS,Transaction. So users can select a options and can see the trend month-wise.
 <br>
 <h2>
-<p><img align="left" height=35 width=32 src="https://assets.materialup.com/uploads/805362d3-e9d6-4aa7-b314-ed9dde22558b/preview.gif"/></p> Analysis Points
+<p><img align="left" height=35 width=35 src="https://assets.materialup.com/uploads/805362d3-e9d6-4aa7-b314-ed9dde22558b/preview.gif"/></p> Analysis Points
 </h2>
 <p><img align="right" height=320 width=400 src="https://c.tenor.com/lvLaG5hPCncAAAAd/data-analysis.gif"/></p>
 
@@ -25,3 +25,11 @@ The company wants to add user control for Profit,Revenue,Quantity,COGS,Transacti
 6. Prepare the Daily,Weekly and Yearly Trends.
 
 5. Create a User Control Combo box for switching between Revenue,Profit,COGS etc. analysis & Create a dashboard.
+<br>
+<h2>
+<p><img align="left" height=35 width=35 src="https://i.pinimg.com/originals/a2/70/d2/a270d270d5ca184422cf980475b99e24.gif"/></p> Sales Dashboard
+</h2>
+<br>
+
+![Sales Dashboard](https://user-images.githubusercontent.com/97454705/185778053-644eafd1-8408-430a-8018-71621a1f1923.png)
+
